@@ -1,0 +1,23 @@
+.floor {
+  width: 90%;
+  height: 50px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: blue;
+  background-color: gray;
+  margin: 3px auto;
+}
+
+.building {
+  border: 1px solid black;
+}
+
+.lift {
+  margin: auto;
+  background-color: aquamarine;
+  width: 20px;
+  height: 40px;
+  border: 1px solid black;
+}
